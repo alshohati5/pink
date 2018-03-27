@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://enjoy.ipacdn3.pw/ipa/tweaked/snappink.ipa</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://1.bp.blogspot.com/-1YrzpLpUgFw/WmuUQ4bFAVI/AAAAAAAAA90/Qx3CdYHcUn8Xmo6Rcc8qVfZdVi2ytgwhQCLcBGAs/s1600/eee.png</string>
+</dict>
+</array><key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>com.toyopagroup.picaboo</string>
+<key>bundle-version</key>
+<string>0.33.1</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>
+SnapPink
+ مايقبل التكرار
+ وبدون اشعارات
+
+  سناب بياكو
+
+ Snap:biaco49
+ "
+</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist>
